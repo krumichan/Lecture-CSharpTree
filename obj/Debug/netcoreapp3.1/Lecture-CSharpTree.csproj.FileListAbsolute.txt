@@ -1,0 +1,13 @@
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.exe
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.deps.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.runtimeconfig.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.runtimeconfig.dev.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\bin\Debug\netcoreapp3.1\Lecture-CSharpTree.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.csprojAssemblyReference.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.AssemblyInfoInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.AssemblyInfo.cs
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.csproj.CoreCompileInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpTree\obj\Debug\netcoreapp3.1\Lecture-CSharpTree.genruntimeconfig.cache
